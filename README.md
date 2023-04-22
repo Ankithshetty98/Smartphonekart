@@ -1,3 +1,4 @@
+![Application screenshot](./public/img/img1.png)
 ### To intsall all rhe required dependecies
 
 ```
